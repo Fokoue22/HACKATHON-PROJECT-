@@ -2,7 +2,7 @@
 Please fix it to get your unsecured highly available apache website to work.This DevOps Hackathon template will create ELB Security Group, ELB, ELB Listener,Target Group, Launch Configuration and Autoscaling group.
 
 # Requirement of hackathon project 1
-## 1. # HACKATHON STUDENT NOTE:
+## 1.  HACKATHON STUDENT NOTE:
 
 Your colleague has provided you with a CloudFormation template to deploy an insecure, highly available Apache website.
 
@@ -19,7 +19,7 @@ To test the application, deploy the template on the CloudFormation console and a
 3) There is no database associated with the application.
 4) The instance type to be used is t3.micro.
 
-## 2. # Update the broken template
+## 2.  Update the broken template
  We first created a new template call "hackaton-fixed-template" 
 1) add a t3.micro
 2) Change the ami of us-east-1 to the one we have in our console 
